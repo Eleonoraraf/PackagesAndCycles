@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7b5bf44-60d3-44be-ab5d-a9474c2729e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/ear/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/ejbs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/primary-source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/projects/logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/projects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/servlets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/servlets/servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/src/main/java/ru/netology/services/rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages and cycles/src/test/java/ru/netology/services/Test/restTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/PackagesAndCycles/services/PackagesAndCycles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PackagesAndCyclesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Telebonuss/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyMassIndex/src/BmiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bodyMassIndex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/ear/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/ejbs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/primary-source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/projects/logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/projects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/servlets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/servlets/servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mill/src/BonusMilesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mill/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/ear/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/ejbs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/primary-source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/projects/logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/projects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/servlets/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/servlets/servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/test/java/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/classes/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2UWpWoQQ0JjvyvRxVoR6Q66mun6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/Элеонора/IdeaProjects/PackagesAndCycles/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Элеонора\IdeaProjects\PackagesAndCycles\src\test\resources" />
+      <recent name="C:\Users\Элеонора\IdeaProjects\PackagesAndCycles\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PackagesAndCyclesTest.shouldCalculateMoneyMonths1">
+    <configuration name="PackagesAndCyclesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackagesAndCycles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PackagesAndCyclesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackagesAndCyclesTest.shouldCalculateMoneyMonths1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackagesAndCycles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PackagesAndCyclesTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMoneyMonths1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackagesAndCyclesTest.shouldCalculateMoneyMonths2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackagesAndCycles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PackagesAndCyclesTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMoneyMonths2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PackagesAndCyclesTest.shouldCalculateMoneyMonths1" />
+        <item itemvalue="JUnit.PackagesAndCyclesTest.shouldCalculateMoneyMonths2" />
+        <item itemvalue="JUnit.PackagesAndCyclesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b5bf44-60d3-44be-ab5d-a9474c2729e1" name="Changes" comment="" />
+      <created>1693065227297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693065227297</updated>
+      <workItem from="1693065228584" duration="6774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
